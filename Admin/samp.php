@@ -1,0 +1,1 @@
+<td style='text-align:center;'>" . "<a style='' class='btn btn-success btn-xs' href='applicants.php?id_job=" . $row['onjob_id'] . "'> <span class='glyphicon glyphicon-pencil'></span>View</a></td>
